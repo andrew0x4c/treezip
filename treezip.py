@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # Copyright (c) Andrew Li 2018. This file is licensed under the GPLv3.
-# See https://github.com/beta-reduction/treezip for more information,
+# See https://github.com/andrew0x4c/treezip for more information,
 # including the full LICENSE file.
 
 import struct
